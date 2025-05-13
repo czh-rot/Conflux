@@ -19,17 +19,16 @@
 
 ## 🔖 Table of Contents
 
-1. [Repository Layout](https://chatgpt.com/c/68234f16-198c-8013-a87a-839700b65700#repository-layout)
-2. [Prerequisites](https://chatgpt.com/c/68234f16-198c-8013-a87a-839700b65700#prerequisites)
-3. [Quick Build](https://chatgpt.com/c/68234f16-198c-8013-a87a-839700b65700#quick-build)
-4. [Running the Demo](https://chatgpt.com/c/68234f16-198c-8013-a87a-839700b65700#running-the-demo)
-5. [Benchmarking](https://chatgpt.com/c/68234f16-198c-8013-a87a-839700b65700#benchmarking)
-6. [Dataset Preparation](https://chatgpt.com/c/68234f16-198c-8013-a87a-839700b65700#dataset-preparation)
-7. [Configuration](https://chatgpt.com/c/68234f16-198c-8013-a87a-839700b65700#configuration)
-8. [Development Guide](https://chatgpt.com/c/68234f16-198c-8013-a87a-839700b65700#development-guide)
-9. [Contributing](https://chatgpt.com/c/68234f16-198c-8013-a87a-839700b65700#contributing)
-10. [Citation](https://chatgpt.com/c/68234f16-198c-8013-a87a-839700b65700#citation)
-11. [License](https://chatgpt.com/c/68234f16-198c-8013-a87a-839700b65700#license)
+1. [Repository Layout](#repository-layout)
+2. [Prerequisites](#prerequisites)
+3. [Quick Build](#quick-build)
+4. [Running the Demo](#running-the-demo)
+5. [Benchmarking](#benchmarking)
+6. [Dataset Preparation](#dataset-preparation)
+7. [Configuration](#configuration)
+8. [Development Guide](#development-guide)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 ------
 
