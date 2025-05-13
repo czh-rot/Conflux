@@ -1,0 +1,8 @@
+# === Conflux demo configuration ===
+storage_path : "/mnt/conflux_kv"
+num_buckets  : 1024            # initial m
+tau_lower    : 0.8             # rebalance thresholds
+tau_upper    : 1.2
+hardware_cfg : "configs/hardware.yaml"
+fhe_cfg      : "configs/fhe.yaml"
+log_level    : "info"

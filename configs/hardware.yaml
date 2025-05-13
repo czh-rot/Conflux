@@ -1,0 +1,3 @@
+xclbin_path : "build/xclbin/conflux_phase1.xclbin"
+smartssd_id : 0            # xbutil list | grep -n SmartSSD
+gpu_index   : 0
