@@ -60,6 +60,13 @@ conflux/
 
 ## Quick Build
 
+### ⚙️ Prerequisite: SmartSSD Installation
+
+Before building the project, you must first install and configure the **SmartSSD** device along with its firmware.
+Please follow the official installation and configuration guide provided by AMD:
+
+👉 [SmartSSD Firmware and Setup Documentation](https://docs.amd.com/v/u/en-US/ug1382-smartssd-csd)
+
 ```bash
 # 1. Clone recursively to fetch sub‑modules
 $ git clone --recursive https://github.com/<org>/conflux.git
