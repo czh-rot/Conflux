@@ -13,7 +13,7 @@
 | **GPU acceleration** for Phase 2                             | Harnesses thousands of cores for expensive equality checks and bootstrapping. |
 | **Adaptive bucket tuning**                                   | Automatically re‑balances buckets online to keep latency stable as data evolve. |
 | **Horizontal scalability**                                   | Achieves near‑linear speed‑ups with up to 8 SmartSSDs.       |
-| **Proven efficiency**                                        | Up to 62 × faster than dynamic‑supporting baselines and 2.5 × faster than static schemes (EuroSys ’26). |
+| **Proven efficiency**                                        | Up to 62 × faster than dynamic‑supporting baselines and 2.5 × faster than static schemes. |
 
 ------
 
